@@ -9,7 +9,7 @@ git clone https://github.com/WebSculptor/hardhat-template
 npm install
 ```
 
-### Nothing has to be touched in the `hardhat.comfig.ts` file because I've already configured it. This is how it appears.
+### Nothing has to be touched in the `hardhat.config.ts` file because I've already configured it. This is how it appears.
 
 ```ts
 import { HardhatUserConfig } from "hardhat/config";
